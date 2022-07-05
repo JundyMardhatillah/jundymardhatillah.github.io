@@ -197,8 +197,8 @@ h1, h2, h3, h4, h5, h6 {
 --------------------------------------------------------------*/
 #hero {
   width: 100%;
-  height: 10vh;
-  background: url("../img/profile-jundy-img.jpg") top center;
+  height: 100vh;
+  background: url("../img/jundi.jpg") top center;
   background-size: cover;
 }
 #hero:before {
